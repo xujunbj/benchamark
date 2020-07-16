@@ -1,0 +1,4 @@
+,time(s),batch_size,num_images,mode,model_name
+0,1.3664274215698242,2,8,cpu,vgg19
+1,1.1304402351379395,4,8,cpu,vgg19
+2,0.8496699333190918,8,8,cpu,vgg19
