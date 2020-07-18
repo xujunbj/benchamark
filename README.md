@@ -13,6 +13,9 @@ DL-INFERENCE-BENCHMARK
 source activate tensorflow_p36
 pip install opencv-python==4.1.0.25
 
+conda install -c conda-forge opencv
+conda install -c conda-forge/label/broken opencv 
+
 ##gluoncv
 source activate conda_mxnet_p36
 pip install gluoncv
